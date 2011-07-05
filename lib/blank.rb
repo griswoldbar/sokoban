@@ -1,0 +1,3 @@
+class Blank<GameObject
+ 
+end
